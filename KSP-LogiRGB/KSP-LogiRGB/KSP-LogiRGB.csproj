@@ -55,7 +55,7 @@
     <Compile Include="ColorSchemes\VabScheme.cs" />
     <Compile Include="Config.cs" />
     <Compile Include="DataDrain.cs" />
-    <Compile Include="KSPChromaPlugin.cs" />
+    <Compile Include="KSPLogiRGBPlugin.cs" />
     <Compile Include="LogitechDrain.cs" />
     <Compile Include="LogitechGSDK.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -10,7 +10,7 @@ namespace KSP_LogiRGB
     ///     uses.
     /// </summary>
     [KSPAddon(KSPAddon.Startup.EveryScene, false)]
-    public class KSPChromaPlugin : MonoBehaviour
+    public class KSPLogiRGBPlugin : MonoBehaviour
     {
         private readonly List<DataDrain> dataDrains = new List<DataDrain>();
         private readonly SceneManager flightSceneManager = new FlightSceneManager();
