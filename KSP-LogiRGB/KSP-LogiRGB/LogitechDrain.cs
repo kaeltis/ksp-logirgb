@@ -151,6 +151,8 @@ namespace KSP_LogiRGB
         public LogitechDrain()
         {
             LogitechGSDK.LogiLedInit();
+            LogitechGSDK.LogiLedSetTargetDevice(LogitechGSDK.LOGI_DEVICETYPE_PERKEY_RGB);
+            LogitechGSDK.LogiLedSetLighting(0, 0, 0);
         }
 
         public void send(ColorScheme scheme)
