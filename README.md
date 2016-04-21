@@ -2,7 +2,7 @@
 Allows Kerbal Space Program to modify the lighting on your Logitech RGB Keyboard.
 Lights up your keyboard to make playing Kerbal Space Program a lot easier.
 
-**This is a fork of @cguckes awesome ksp-chroma plugin - if you have a Razer keyboard, check it out: https://github.com/cguckes/ksp-chroma**
+**This is a fork of @cguckes' awesome ksp-chroma plugin - if you have a Razer keyboard, check it out: https://github.com/cguckes/ksp-chroma**
 
 The mod is still very beta, so let me know if you experience any difficulties when using it.
 
