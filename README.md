@@ -24,8 +24,9 @@ The mod is still very beta, so let me know if you experience any difficulties wh
 
 ## Installation
 
-1. Unzip the release archive and place the KSPChromaControl folder in your KSP GameData directory.
-2. Start KSP and witness the awesomeness of highlighted function keys while kerbaling through space
+1. Unzip the release archive and place the KSPLogiRGB folder in your KSP GameData directory.
+2. From either the lib32 or lib64 folder (depending on which KSP build you are using) copy the LogitechLedEnginesWrapper.dll file inside the GameRoot, where the KSP.exe and KSP_x64.exe are as well.
+3. Start KSP and witness the awesomeness of highlighted function keys while kerbaling through space
  
 ## Todo
 
