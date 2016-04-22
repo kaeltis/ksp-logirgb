@@ -15,11 +15,15 @@ namespace KSP_LogiRGB.SceneManagers
         {
             SetKeysToColor(new[]
             {
-                KeyCode.W, KeyCode.A, KeyCode.S, KeyCode.D, KeyCode.Q, KeyCode.E
+                GameSettings.Editor_pitchUp.primary, GameSettings.Editor_pitchDown.primary,
+                GameSettings.Editor_rollLeft.primary, GameSettings.Editor_rollRight.primary,
+                GameSettings.Editor_yawLeft.primary, GameSettings.Editor_yawRight.primary
             }, new Color(1f, 1f, 0f));
             SetKeysToColor(new[]
             {
-                KeyCode.LeftShift, KeyCode.Space, KeyCode.F
+                GameSettings.Editor_fineTweak.primary,
+                GameSettings.Editor_resetRotation.primary,
+                GameSettings.Editor_coordSystem.primary
             }, Color.magenta);
         }
     }

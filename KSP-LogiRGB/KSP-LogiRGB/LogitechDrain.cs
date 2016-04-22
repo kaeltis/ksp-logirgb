@@ -163,7 +163,7 @@ namespace KSP_LogiRGB
         ~LogitechDrain()
         {
             // Not strictly necessary, frees up memory, but causes keys blinking on scene switches
-            LogitechGSDK.LogiLedShutdown();
+            //LogitechGSDK.LogiLedShutdown(); // Causes functions to stop working after a while
         }
 
         /// <summary>

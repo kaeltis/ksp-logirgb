@@ -2,6 +2,9 @@
 
 namespace KSP_LogiRGB
 {
+    /// <summary>
+    ///     Implement this to use the mod with other devices.
+    /// </summary>
     internal interface DataDrain
     {
         /// <summary>
