@@ -1,4 +1,4 @@
-# ksp-logirgb
+# KSP Logitech RGB Control
 Allows Kerbal Space Program to modify the lighting on your Logitech RGB Keyboard.
 Lights up your keyboard to make playing Kerbal Space Program a lot easier.
 
