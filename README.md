@@ -9,8 +9,6 @@ Lights up your keyboard to make playing Kerbal Space Program a lot easier.
 
 The mod is still very beta, so let me know if you experience any difficulties when using it.
 
-This mod includes version checking using [MiniAVC](http://forum.kerbalspaceprogram.com/threads/79745). If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent. For a more comprehensive version checking experience, please download the [KSP-AVC Plugin](http://forum.kerbalspaceprogram.com/threads/79745).
-
 ## Features
 
 - Function keys 1 to 0 are only lit, if the underlying action group actually does anything. The keys are displayed in two different colors, depending on whether the action group is toggled or not.
@@ -37,3 +35,6 @@ This mod includes version checking using [MiniAVC](http://forum.kerbalspaceprogr
 
 - Make the whole keyboard red, if the vessel is not steerable any more.
 - Add CatastrophicFailure event and SplashedDown event animation.
+
+
+This mod includes version checking using [MiniAVC](http://forum.kerbalspaceprogram.com/threads/79745). If you opt-in, it will use the internet to check whether there is a new version available. Data is only read from the internet and no personal information is sent. For a more comprehensive version checking experience, please download the [KSP-AVC Plugin](http://forum.kerbalspaceprogram.com/threads/79745).
